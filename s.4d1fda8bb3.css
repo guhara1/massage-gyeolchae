@@ -159,7 +159,8 @@ a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid #6A2
 .mk{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
 .tj{background:#fff;border:1px solid #E2DCDC44;border-radius:14px;padding:20px}
 .tj.ax{border:2px solid #6A2529;box-shadow:0 8px 22px rgba(122,31,102,.10)}
-.tj .li{display:inline-block;font-size:11px;font-weight:900;color:#fff;background:#2D58BE;
+.tj .li{display:inline-block;font-size:11px;font-weight:900;color:#FFFFFF;background:#2D58BE;  /* ★2026-10-28 — 흰색을 못 박았다가 35차 비나리(겨자 acc)에서 **2.05:1** 이 났다.
+     acc 바탕 위 글자는 반드시 밝기를 재서 고른다 [[factory-ink-on-accent-must-be-computed]] */
  border-radius:5px;padding:2px 7px;margin-right:7px}
 .tj .oz{font-size:16.5px;font-weight:900}
 .tj .kh{display:block;color:#5E5866;font-size:13px;margin:7px 0 12px}

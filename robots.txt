@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://gyeolchaetherapy.netlify.app/sitemap.xml
-Sitemap: https://gyeolchaetherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://gyeolchaetherapy.netlify.app/sitemap-area.xml
-Sitemap: https://gyeolchaetherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://gyeolchaetherapy.netlify.app/rss.xml
+Sitemap: https://gyeolchaetherapy.pages.dev/sitemap.xml
+Sitemap: https://gyeolchaetherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://gyeolchaetherapy.pages.dev/sitemap-area.xml
+Sitemap: https://gyeolchaetherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://gyeolchaetherapy.pages.dev/rss.xml
